@@ -1,7 +1,7 @@
 # Java8
 
 # Default Methods
-# Lamndas
+# Lambdas
 # Method references
 # Streams
 # Collerctors
